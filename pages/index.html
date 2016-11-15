@@ -1,0 +1,71 @@
+<!-- begin content -->
+<div class="container">
+    <div class="row">
+        <div class="col-md-12">
+            <div id="carousel-homepage" class="carousel slide" data-interval="8000">
+                <div class="carousel-inner" role="listbox">
+                    $for(paintings)$
+                    <div class="item">
+                        <a href="/schilderijen/#$slug$">
+                            <div class="item-wrapper">
+                                <img src="$imageCarousel$" alt="$title$">
+                            </div>
+                        </a>
+                    </div>
+                    $endfor$
+                </div>
+
+                <!-- Controls -->
+                <a class="left carousel-control" href="#carousel-homepage" data-slide="prev">
+                    <span class="glyphicon glyphicon-chevron-left"></span>
+                </a>
+                <a class="right carousel-control" href="#carousel-homepage" data-slide="next">
+                    <span class="glyphicon glyphicon-chevron-right"></span>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-12">
+            <h1 class="home">Cor van Tricht</h1>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-3">
+            <h2>Kunstschilder</h2>
+            <p>
+                Voor een selectie van zijn werk verwijzen we u naar de
+                rubriek <a href="/schilderijen/">schilderijen</a> en
+                voor achtergrond informatie kunt u terecht op de
+                pagina <a href="/de-kunstschilder/">de
+                kunstschilder</a>.
+            </p>
+        </div>
+        <div class="col-md-3">
+            <h2>Restaurateur</h2>
+            <p>
+                Cor restaureert schilderijen voor organisaties en
+                particulieren. Meer informatie over restauraties en
+                afgeronde opdrachten treft u aan
+                bij <a href="/de-restaurateur/">de restaurateur</a>.
+            </p>
+        </div>
+        <div class="col-md-3">
+            <h2>Pottenbakker</h2>
+            <p>
+                Van 1968 tot en met 1984 is Cor van Tricht ontwerper en
+                modelleur geweest voor Potterie de Driehoek, u kunt meer lezen
+                en zien bij <a href="/de-pottenbakker/">de pottenbakker</a>.
+            </p>
+        </div>
+        <div class="col-md-3">
+            <h2>Contact</h2>
+            <p>
+                Voor de verkoop van schilderijen uit eigen atelier (alleen op
+                afspraak) of indien u vragen heeft, vindt u hier de
+                <a href="/contact/">contactgegevens</a>.
+            </p>
+        </div>
+    </div>
+</div>
+<!-- end content -->

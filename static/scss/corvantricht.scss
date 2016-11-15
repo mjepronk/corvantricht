@@ -1,0 +1,130 @@
+$x-brand-secondary:                  #cdc98c;
+$x-brand-tertiary:                   #959372;
+// $x-brand-font: 'Lato', Helvetica, Arial, sans-serif;
+
+// $brand-primary:                      #716831;
+// $navbar-height:                      70px;
+// $navbar-default-link-active-color:   #EEEEEE;
+// $navbar-inverse-toggle-hover-bg:     $x-brand-tertiary;
+// $navbar-inverse-toggle-icon-bar-bg:  $x-brand-secondary;
+// $navbar-inverse-toggle-border-color: $x-brand-secondary;
+// $navbar-inverse-bg:                  $brand-primary;
+// $navbar-inverse-link-color:          #FFFFFF;
+// $navbar-inverse-link-hover-color:    #EEEEEE;
+$icon-font-path:                     '../fonts/';
+
+@import 'vendor/bootstrap';
+
+@font-face {
+    font-family: 'Lato';
+    src: url('../fonts/Lato-Regular.eot'); /* IE9 Compat Modes */
+    src: url('../fonts/Lato-Regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('../fonts/Lato-Regular.woff') format('woff'), /* Modern Browsers */
+         url('../fonts/Lato-Regular.ttf') format('truetype');
+    font-style: normal;
+    font-weight: normal !important;
+}
+
+body {
+    background-image: url(../img/bgimg.png);
+    color: #eee;
+    font-family: 'Lato', Helvetica, Arial, sans-serif;
+    font-size: 12pt;
+    line-height: 1.5em;
+    font-smoothing: antialiased;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+body.page {
+    margin-top: 65px;
+}
+
+.navbar-inverse {
+    border: none !important;
+}
+
+a, a:hover, a:focus {
+    color: #DA7E18;
+}
+
+img.inline,
+img.pull-left,
+img.pull-right {
+    margin: 10px;
+}
+
+h1 {
+    margin: 0.5em 0 !important;
+    font-size: 26px;
+}
+
+h1.home {
+    font-size: 36px;
+    margin: 1.5em 0 .5em 0 !important;
+}
+
+h2 {
+    font-size: 24px;
+}
+
+h3 {
+    font-size: 22px;
+}
+
+div.well h3 {
+    margin: -7px 0 13px 0;
+}
+
+hr {
+    border-bottom: none;
+}
+
+div.inline {
+    width: auto;
+}
+
+p.caption {
+    font-size: 90%;
+    font-style: italic;
+}
+
+.clear {
+    clear: both;
+}
+
+div.item-wrapper {
+    position: relative;
+    height: 400px;
+    width: 100%;
+    overflow: hidden;
+}
+
+div.item-wrapper img {
+    position: absolute;
+    min-height: 100%;
+    min-width: 100%;
+    left: -100%;
+    top: -100%;
+    bottom: -100%;
+    right: -100%;
+    margin: auto;
+}
+
+div.figure {
+    margin: 2em 0;
+}
+
+div.container.footer {
+    padding-top: 80px;
+}
+
+p.footnote {
+    font-size: 8pt;
+}
+
+.nav > li > a:hover,
+.nav > li > a:focus {
+    background-color: transparent !important;
+    text-decoration: underline !important;
+}

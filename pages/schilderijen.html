@@ -1,0 +1,17 @@
+---
+title: verkoop van schilderijen uit eigen atelier
+---
+<div class="fotorama"
+     data-width="100%"
+     data-height="100%"
+     data-captions="true"
+     data-nav="thumbs"
+     data-keyboard="true"
+     data-arrows="true"
+     data-hash="true">
+    $for(paintings)$
+    <a href="$imageNormal$" id="$slug$" data-caption="<b>$title$</b> - $description$">
+        <img src="$imageThumbnail$" alt="$title$">
+    </a>
+    $endfor$
+</div>

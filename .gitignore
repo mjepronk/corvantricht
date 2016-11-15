@@ -1,0 +1,9 @@
+*~
+.*~
+#*#
+.#*
+.sass-cache/
+.stack-work/
+_cache/
+_site/
+dist/

@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Cor van Tricht - $title$</title>
+
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta name="author" content="Matthias Pronk">
+  <meta name="generator" content="Hakyll <http://jaspervdj.be/hakyll>">
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
+  <link rel="stylesheet" href="/static/css/corvantricht.css">
+</head>
+<body class="page">
+
+  <nav class="navbar navbar-inverse navbar-fixed-top">
+    <div class="container">
+      <div class="navbar-header">
+        <a class="navbar-brand" href="/">Cor van Tricht</a>
+        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
+      </div>
+      <div class="navbar-collapse collapse navbar-right">
+        <ul class="nav navbar-nav">
+          <li class="$if(section-paintings)$active$endif$"><a href="/schilderijen/">Schilderijen</a></li>
+          <li class="dropdown $if(section-about)$active$endif$">
+            <a class="dropdown-toggle" data-toggle="dropdown" href="/de-kunstschilder/">Over <b class="caret"></b></a>
+            <ul class="dropdown-menu">
+              <li><a href="/de-kunstschilder/">De kunstschilder</a></li>
+              <li><a href="/de-restaurateur/">De restaurateur</a></li>
+              <li><a href="/de-pottenbakker/">De pottenbakker</a></li>
+            </ul>
+          </li>
+          <li class="$if(section-contact)$active$endif$"><a href="/contact/">Contact</a></li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+
+  $body$
+
+  <div class="container footer">
+    <hr>
+    <div class="row">
+      <div class="col-md-6">
+        <p class="muted">
+          <a href="/">Home</a> |
+          <a href="/schilderijen/">Schilderijen</a> |
+          <a href="/de-kunstschilder/">Over</a> |
+          <a href="/contact/">Contact</a>
+        </p>
+      </div>
+      <div class="col-md-6">
+        <p class="muted pull-right">
+          &copy; Cor van Tricht |
+          Website door <a href="http://www.masida.nl">Masida</a>
+        </p>
+      </div>
+    </div>
+    $if(section-home)$
+    <div class="row">
+      <div class="col-md-12">
+          <p class="footnote">
+              Let op, de kleuren van de schilderijen op deze website
+              kunnen enigszins afwijken van de werkelijke kleuren.
+          </p>
+      </div>
+    </div>
+    $endif$
+  </div>
+  <script src="https://code.jquery.com/jquery-1.12.4.min.js" integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=" crossorigin="anonymous"></script>
+  <script type="text/javascript" src="/static/js/bootstrap.min.js"></script>
+  <script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-77530836-1', 'auto');
+    ga('send', 'pageview');
+  </script>
+  <script>
+      $$(function() {
+        $$('#carousel-homepage div.item:first').addClass('active');
+      });
+  </script>
+</body>
+</html>
