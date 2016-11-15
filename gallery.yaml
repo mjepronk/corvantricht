@@ -1,6 +1,6 @@
 - title: Ultramarijn
   image: IMG_3873.jpg
-  carousel: n
+  carousel: y
   description: |
       olie op linnen
       50 × 70 cm
@@ -9,7 +9,7 @@
 
 - title: Valavond (Soest, De Windhond)
   image: IMG_5095.jpg
-  carousel: n
+  carousel: y
   description: |
       olie op doek
       60 × 80 cm
@@ -18,7 +18,7 @@
 
 - title: Herfstochtend (Soest, De Windhond)
   image: IMG_5090.jpg
-  carousel: n
+  carousel: y
   description: |
       olie op doek
       50 × 70 cm
