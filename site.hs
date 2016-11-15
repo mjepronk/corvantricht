@@ -20,7 +20,7 @@ import qualified Data.ByteString.Lazy.Char8 as CL
 --------------------------------------------------------------------------------
 
 main :: IO ()
-main = hakyll $ do
+main = hakyllWith siteConfig $ do
     match "static/img/*" $ do
         route   idRoute
         compile copyFileCompiler
@@ -115,12 +115,18 @@ main = hakyll $ do
         compile $ pandocCompiler
           >>= loadAndApplyTemplate "templates/page.html" defaultContext
           >>= loadAndApplyTemplate "templates/default.html" defaultContext
-          >>= relativizeUrls
           >>= removeIndexHtml
 
     match "templates/*" $ compile templateCompiler
 
     match "gallery.yaml" $ compile getResourceLBS
+
+
+-- Hakyll config ---------------------------------------------------------------
+
+siteConfig :: Configuration
+siteConfig = defaultConfiguration
+             { deployCommand = "rsync -av _site/ www@wilkes:/srv/www/corvantricht.nl/" }
 
 
 -- Images ----------------------------------------------------------------------
