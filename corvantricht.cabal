@@ -13,7 +13,6 @@ executable site
   main-is:             site.hs
   build-depends:       base
                      , hakyll
-                     , hjsmin
                      , bytestring
                      , filepath
                      , yaml

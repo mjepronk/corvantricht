@@ -11,12 +11,12 @@ import           GHC.Generics
 import           Control.Applicative (empty)
 import           System.FilePath ((</>), dropExtension, makeRelative, splitFileName)
 import           Data.Yaml
-import qualified Text.Jasmine as JS
+-- import qualified Text.Jasmine as JS
 
 import qualified Data.ByteString as B
 import qualified Data.ByteString.Char8 as C8
 import qualified Data.ByteString.Lazy as BL
-import qualified Data.ByteString.Lazy.Char8 as CL
+-- import qualified Data.ByteString.Lazy.Char8 as CL
 --------------------------------------------------------------------------------
 
 main :: IO ()
@@ -31,7 +31,6 @@ main = hakyllWith siteConfig $ do
 
     match "static/js/*" $ do
         route   idRoute
-        compile minifyJSCompiler
         compile copyFileCompiler
 
     match "static/css/*" $ do
@@ -218,10 +217,10 @@ removeIndexHtml item = return $ (withUrls removeIndexStr) <$> item
 
 -- Compilers -------------------------------------------------------------------
 
-minifyJSCompiler :: Compiler (Item String)
-minifyJSCompiler = do
-  bs <- getResourceLBS
-  return $ itemSetBody (CL.unpack . JS.minify . itemBody $ bs) bs
+-- minifyJSCompiler :: Compiler (Item String)
+-- minifyJSCompiler = do
+--   bs <- getResourceLBS
+--   return $ itemSetBody (CL.unpack . JS.minify . itemBody $ bs) bs
 
 
 scssCompiler :: FilePath -> Compiler (Item String)
