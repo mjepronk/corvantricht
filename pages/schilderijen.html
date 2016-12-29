@@ -11,7 +11,11 @@ title: verkoop van schilderijen uit eigen atelier
      data-hash="true">
     $for(paintings)$
     <a href="$imageNormal$" id="$slug$" data-caption="<b>$title$</b> - $description$">
+        <h2>$title$</h2>
         <img src="$imageThumbnail$" alt="$title$">
+        <p>
+            $description$
+        </p>
     </a>
     $endfor$
 </div>
