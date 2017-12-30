@@ -48,15 +48,15 @@ main = hakyllWith siteConfig $ do
     match ("gallery/*.jpg" .&&. complement "gallery/*.carousel.jpg") $
       version "normal" $ do
         route $ setExtension "normal.jpg"
-        compile $ imageCompiler
+        compile imageCompiler
 
     match ("gallery/*.jpg" .&&. complement "gallery/*.carousel.jpg") $
       version "thumbnail" $ do
         route $ setExtension "thumb.jpg"
-        compile $ thumbnailCompiler
+        compile thumbnailCompiler
 
     match "gallery/*.carousel.jpg" $ do
-        route $ idRoute
+        route   idRoute
         compile copyFileCompiler
 
     match "pages/index.html" $ do
@@ -206,13 +206,13 @@ pageRoute ident
   where relPath = makeRelative "pages/" (toFilePath ident)
 
 removeIndexHtml :: Item String -> Compiler (Item String)
-removeIndexHtml item = return $ (withUrls removeIndexStr) <$> item
+removeIndexHtml item = return $ withUrls removeIndexStr <$> item
   where
     removeIndexStr :: String -> String
     removeIndexStr url = case splitFileName url of
         (dir, "index.html") | isLocal dir -> dir
         _                                 -> url
-        where isLocal uri = not (isInfixOf "://" uri)
+        where isLocal uri = not ("://" `isInfixOf` uri)
 
 
 -- Compilers -------------------------------------------------------------------
