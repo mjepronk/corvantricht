@@ -12,6 +12,10 @@ $x-brand-tertiary:                   #959372;
 // $navbar-inverse-link-color:          #FFFFFF;
 // $navbar-inverse-link-hover-color:    #EEEEEE;
 $icon-font-path:                     '../fonts/';
+$body-bg:                            #818181;
+$navbar-inverse-link-color:          #bebebe;
+$navbar-inverse-link-active-color:   #da7e18;
+$navbar-inverse-brand-color:         #bebebe;
 
 @import 'vendor/bootstrap';
 
@@ -126,5 +130,4 @@ p.footnote {
 .nav > li > a:hover,
 .nav > li > a:focus {
     background-color: transparent !important;
-    text-decoration: underline !important;
 }

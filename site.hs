@@ -226,6 +226,6 @@ removeIndexHtml item = return $ withUrls removeIndexStr <$> item
 scssCompiler :: FilePath -> Compiler (Item String)
 scssCompiler loadpath = do
   s <- getResourceString
-  item <- withItemBody (unixFilter "sass"
-      ["--stdin", "--scss", "--load-path", loadpath]) s
+  item <- withItemBody (unixFilter "sassc"
+      ["--stdin", "--load-path", loadpath]) s
   return $ compressCss <$> item
