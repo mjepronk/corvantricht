@@ -1,3 +1,21 @@
+- title: Tolhuisje Blaricum
+  image: IMG_7484.jpg
+  carousel: y
+  description: |
+      olie op doek
+      60 × 80 cm
+      2017
+      prijs op aanvraag
+
+- title: Dagelijks brood II
+  image: IMG_7676.jpg
+  carousel: y
+  description: |
+      olie op doek
+      50 × 70 cm
+      2018
+      prijs op aanvraag
+
 - title: Tolhuisje Huizen
   image: IMG_5643.jpg
   carousel: y
@@ -415,7 +433,7 @@
   description: |
       olie op linnen
       60 × 80 cm
-      prijs op aanvraag
+      n.t.k.
 
 - title: De oude man en de dood
   image: IMG_5921.jpg
@@ -465,13 +483,14 @@
       100 × 70 cm
       prijs op aanvraag
 
-- title: Tolhuisje Hilversum Laren
-  image: IMG_5918.jpg
-  carousel: n
-  description: |
-      olie op linnen
-      100 × 70 cm
-      prijs op aanvraag
+# Verwijderd
+# - title: Tolhuisje Hilversum Laren
+#   image: IMG_5918.jpg
+#   carousel: n
+#   description: |
+#       olie op linnen
+#       100 × 70 cm
+#       prijs op aanvraag
 
 - title: Ploegende boer, Huizen
   image: IMG_5919.jpg
@@ -505,10 +524,11 @@
       60 × 70 cm
       prijs op aanvraag
 
-- title: Winteravond
-  image: IMG_5925.jpg
-  carousel: n
-  description: |
-      olie op linnen
-      60 × 80 cm
-      prijs op aanvraag
+# Verwijderd
+# - title: Winteravond
+#   image: IMG_5925.jpg
+#   carousel: n
+#   description: |
+#       olie op linnen
+#       60 × 80 cm
+#       prijs op aanvraag
