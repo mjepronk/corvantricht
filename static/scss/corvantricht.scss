@@ -131,3 +131,13 @@ p.footnote {
 .nav > li > a:focus {
     background-color: transparent !important;
 }
+
+body.page img {
+    max-width: 100%;
+    height: auto;
+}
+
+body.page figure {
+    padding-top: 1em;
+    padding-bottom: 2em;
+}

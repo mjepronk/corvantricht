@@ -32,4 +32,12 @@ u op de volgende websites:
 
 ![Ontwerp van servies Texel](/static/img/servies_texel_schets.png)
 
+![Servies Drente](/static/img/servies_drente.jpg)
+
+![Servies Laren](/static/img/servies_laren.jpg)
+
+![Servies Laren](/static/img/servies_laren2.jpg)
+
+![Servies Zuiderzee](/static/img/servies_zuiderzee.jpg)
+
 ![Unica](/static/img/servies_schoteltje.jpg)
