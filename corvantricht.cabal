@@ -2,7 +2,7 @@ name:                corvantricht
 version:             0.1.0.0
 synopsis:            Website voor Cor van Tricht
 homepage:            http://www.corvantricht.nl
-license:             AllRightsReserved
+license:             PublicDomain
 author:              Matthias Pronk
 maintainer:          mail@masida.nl
 copyright:           Cor van Tricht
@@ -16,6 +16,5 @@ executable site
                      , bytestring
                      , filepath
                      , yaml
-                     , MissingH
   default-language:    Haskell2010
   ghc-options:         -Wall -threaded
