@@ -8,14 +8,22 @@ title: verkoop van schilderijen uit eigen atelier
      data-nav="thumbs"
      data-keyboard="true"
      data-arrows="true"
-     data-hash="true">
+     data-hash="true"
+     itemscope itemtype="http://schema.org/ImageGallery">
     $for(paintings)$
-    <a href="$imageNormal$" id="$slug$" data-caption="<b>$title$</b> - $description$">
-        <h2>$title$</h2>
-        <img src="$imageThumbnail$" alt="$title$">
-        <p>
+    <a href="$imageNormal$"
+       id="$slug$"
+       data-caption="<b>$title$</b> - $description$"
+       itemprop="associatedMedia"
+       itemscope itemtype="http://schema.org/ImageObject">
+        <h2 itemprop="caption">$title$</h2>
+        <img itemprop="thumbnail" src="$imageThumbnail$" alt="$title$">
+        <p itemprop="description">
             $description$
         </p>
+        <meta itemprop="copyrightHolder" content="Cor van Tricht">
+        <meta itemprop="url" content="/schilderijen/#$slug$">
+        <meta itemprop="contentUrl" content="$imageNormal$">
     </a>
     $endfor$
 </div>

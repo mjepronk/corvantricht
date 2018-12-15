@@ -52,12 +52,6 @@ a, a:hover, a:focus {
     color: #DA7E18;
 }
 
-img.inline,
-img.pull-left,
-img.pull-right {
-    margin: 10px;
-}
-
 h1 {
     margin: 0.5em 0 !important;
     font-size: 26px;
@@ -88,11 +82,6 @@ div.inline {
     width: auto;
 }
 
-p.caption {
-    font-size: 90%;
-    font-style: italic;
-}
-
 .clear {
     clear: both;
 }
@@ -115,10 +104,6 @@ div.item-wrapper img {
     margin: auto;
 }
 
-div.figure {
-    margin: 2em 0;
-}
-
 div.container.footer {
     padding-top: 80px;
 }
@@ -132,12 +117,31 @@ p.footnote {
     background-color: transparent !important;
 }
 
-body.page img {
+div.content img.pull-left {
+    margin-right: 2em;
+}
+
+div.content img.pull-right {
+    margin-left: 2em;
+}
+
+div.content figure,
+div.content div.figure {
+    margin-bottom: 2em;
+}
+
+
+div.content figure img,
+div.content div.figure img {
     max-width: 100%;
     height: auto;
 }
 
-body.page figure {
-    padding-top: 1em;
-    padding-bottom: 2em;
+div.content p.caption {
+    font-size: 90%;
+    font-style: italic;
+}
+
+div.content ul, div.content ol {
+    overflow: hidden;
 }
