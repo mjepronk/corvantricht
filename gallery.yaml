@@ -27,6 +27,45 @@
       prijs op aanvraag
   location: Brink, Laren, Nederland
 
+- title: Hindeloopen I
+  image: IMG_9739.jpg
+  carousel: y
+  description: |
+      olie op doek
+      70 × 50 cm
+      2019
+      prijs op aanvraag
+  location: Hindeloopen, Nederland
+
+- title: Hindeloopen II
+  image: IMG_9305.jpg
+  carousel: y
+  description: |
+      olie op doek
+      70 × 60 cm
+      2019
+      prijs op aanvraag
+  location: Hindeloopen, Nederland
+
+- title: Druiven
+  image: IMG_9734.jpg
+  carousel: y
+  description: |
+      olie op paneel
+      40 × 60 cm
+      2019
+      prijs op aanvraag
+
+- title: Eemnesserweg Blaricum
+  image: IMG_9891.jpg
+  carousel: y
+  description: |
+      olie op doek
+      80 × 60 cm
+      2019
+      prijs op aanvraag
+  location: Eemnesserweg, Blaricum, Nederland
+
 - title: Badende koeien, Eempolder nabij het sluisje
   image: IMG_8550.jpg
   carousel: y
@@ -34,6 +73,15 @@
       olie op doek
       80 × 60 cm
       2018
+      prijs op aanvraag
+
+- title: Kaasplank
+  image: IMG_9692.jpg
+  carousel: y
+  description: |
+      olie op doek
+      70 × 60 cm
+      2019
       prijs op aanvraag
 
 - title: Dagelijks brood II
@@ -50,7 +98,7 @@
   carousel: y
   description: |
       olie op doek
-      60 × 80 cm
+      60 × 60 cm
       2017
       prijs op aanvraag
 

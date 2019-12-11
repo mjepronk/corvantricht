@@ -11,9 +11,9 @@ ontworpen en vervaardigd, in volgorde van ontstaan:
 1.  [Octo](#octo)
 2.  [Laren](#laren)
 3.  [Amsterdam](#amsterdam)
-4.  Blaricum
+4.  [Blaricum](#blaricum)
 5.  [Drenthe](#drenthe)
-6.  Octo II
+6.  [Octo II](#octoii)
 7.  [Zuiderzee](#zuiderzee)
 8.  Maastricht
 9.  [Texel](#texel)
@@ -42,7 +42,17 @@ u op de volgende websites:
 
 ![Servies Amsterdam](/static/img/servies_amsterdam.jpg){id="amsterdam"}
 
-![Servies Drente](/static/img/servies_drente.jpg){id="drenthe"}
+![Servies Blaricum](/static/img/servies_blaricum.jpg){id="blaricum"}
+
+![Servies Blaricum](/static/img/servies_blaricum2.jpg)
+
+![Servies Drenthe](/static/img/servies_drenthe.jpg){id="drenthe"}
+
+![Servies Drenthe](/static/img/servies_drenthe2.jpg)
+
+![Servies Octo II](/static/img/servies_octoii.jpg){id="octoii"}
+
+![Servies Octo II](/static/img/servies_octoii2.jpg)
 
 ![Servies Zuiderzee](/static/img/servies_zuiderzee.jpg){id="zuiderzee"}
 
