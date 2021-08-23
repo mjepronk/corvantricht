@@ -1,9 +1,18 @@
+- title: Haven van Spakenburg
+  image: IMG_0898.jpg
+  carousel: y
+  description: |
+      olie op doek
+      70 × 50 cm
+      2021
+      prijs op aanvraag
+
 - title: Windhond
   image: IMG_0934.jpg
   carousel: n
   description: |
       olie op doek
-      50 × 70 cm
+      70 × 50 cm
       2021
       prijs op aanvraag
   location: Eng, Soest, Nederland
@@ -42,7 +51,7 @@
   carousel: n
   description: |
       olie op doek
-      80 × 60 cm
+      60 × 80 cm
       2021
       n.t.k.
 
@@ -61,15 +70,6 @@
   description: |
       olie op paneel
       40 × 50 cm
-      2021
-      prijs op aanvraag
-
-- title: Haven van Spakenburg
-  image: IMG_0898.jpg
-  carousel: n
-  description: |
-      olie op doek
-      70 × 50 cm
       2021
       prijs op aanvraag
 
