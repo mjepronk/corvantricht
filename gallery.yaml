@@ -1,3 +1,78 @@
+- title: Windhond
+  image: IMG_0934.jpg
+  carousel: n
+  description: |
+      olie op doek
+      50 × 70 cm
+      2021
+      prijs op aanvraag
+  location: Eng, Soest, Nederland
+
+- title: Kom met eieren
+  image: IMG_0935.jpg
+  carousel: n
+  description: |
+      olie op paneel
+      40 × 40 cm
+      2021
+      prijs op aanvraag
+
+- title: Winterbos
+  image: IMG_0927.jpg
+  carousel: n
+  description: |
+      olie op doek
+      80 × 60 cm
+      2021
+      prijs op aanvraag
+  location: Pijnenburg, Soest, Nederland
+
+- title: Crailoseweg
+  image: IMG_0848.jpg
+  carousel: n
+  description: |
+      olie op doek
+      80 × 60 cm
+      2021
+      prijs op aanvraag
+  location: Crailoseweg, Blaricum, Nederland
+
+- title: Kate en haar paard
+  image: IMG_0806.jpg
+  carousel: n
+  description: |
+      olie op doek
+      80 × 60 cm
+      2021
+      n.t.k.
+
+- title: Stilleven met groene fles
+  image: IMG_0417.jpg
+  carousel: n
+  description: |
+      olie op paneel
+      60 × 70 cm
+      2021
+      prijs op aanvraag
+
+- title: Stilleven in wit
+  image: IMG_0464.jpg
+  carousel: n
+  description: |
+      olie op paneel
+      40 × 50 cm
+      2021
+      prijs op aanvraag
+
+- title: Haven van Spakenburg
+  image: IMG_0898.jpg
+  carousel: n
+  description: |
+      olie op doek
+      70 × 50 cm
+      2021
+      prijs op aanvraag
+
 - title: Brink te Laren
   image: IMG_9080.jpg
   carousel: y
@@ -54,7 +129,7 @@
       olie op paneel
       40 × 60 cm
       2019
-      prijs op aanvraag
+      n.t.k.
 
 - title: Eemnesserweg Blaricum
   image: IMG_9891.jpg
@@ -91,7 +166,7 @@
       olie op doek
       50 × 70 cm
       2018
-      prijs op aanvraag
+      n.t.k.
 
 - title: Tolhuisje Huizen
   image: IMG_5643.jpg
@@ -127,7 +202,7 @@
       olie op paneel
       50 × 50 cm
       2017
-      prijs op aanvraag
+      n.t.k.
 
 - title: Altijd bloemen
   image: IMG_7368.jpg
@@ -283,13 +358,13 @@
       60 × 80 cm
       prijs op aanvraag
 
-- title: Druiven en flessen
-  image: IMG_7615.jpg
-  carousel: n
-  description: |
-      olie op linnen
-      50 × 60 cm
-      n.t.k.
+# - title: Druiven en flessen
+#   image: IMG_7615.jpg
+#   carousel: n
+#   description: |
+#       olie op linnen
+#       50 × 60 cm
+#       n.t.k.
 
 - title: Dagelijks brood
   image: IMG_7660.jpg
@@ -297,7 +372,7 @@
   description: |
       olie op linnen
       50 × 65 cm
-      prijs op aanvraag
+      n.t.k.
 
 - title: De oude pier van Huizen
   image: IMG_7144.jpg
@@ -360,13 +435,13 @@
       50 × 60 cm
       prijs op aanvraag
 
-- title: Stilleven met appels
-  image: IMG_5927.jpg
-  carousel: n
-  description: |
-      olie op linnen
-      60 × 80 cm
-      n.t.k.
+# - title: Stilleven met appels
+#   image: IMG_5927.jpg
+#   carousel: n
+#   description: |
+#       olie op linnen
+#       60 × 80 cm
+#       n.t.k.
 
 - title: Anne
   image: IMG_5306.jpg
@@ -497,7 +572,7 @@
   description: |
       olieverf op linnen
       50 × 60 cm
-      prijs op aanvraag
+      n.t.k.
 
 - title: Lathyrus II
   image: IMG_2256.jpg
@@ -535,7 +610,7 @@
   carousel: n
   description: |
       olie op linnen
-      100 × 70 cm
+      80 × 60 cm
       prijs op aanvraag
 
 - title: Schaatsen op 't Gein, Abcoude
