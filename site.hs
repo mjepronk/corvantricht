@@ -1,10 +1,8 @@
 {-# LANGUAGE OverloadedStrings #-}
 {-# LANGUAGE DeriveGeneric #-}
 --------------------------------------------------------------------------------
-import           Data.Monoid  ((<>))
 import           Data.List (isInfixOf, intercalate)
 import           Data.Char (toLower)
-import           Data.Functor ((<$>))
 import           Hakyll
 
 import           GHC.Generics
@@ -132,12 +130,12 @@ siteConfig = defaultConfiguration
 
 imageCompiler :: Compiler (Item BL.ByteString)
 imageCompiler = getResourceLBS >>= withItemBody resize
-    where resize = unixFilterLBS "convert" ["jpg:-", "-colorspace", "RGB", "-resize", "1024x768",
+    where resize = unixFilterLBS "convert" ["jpg:-", "-colorspace", "sRGB", "-resize", "1024x768",
                                             "-quality", "90", "jpg:-"]
 
 thumbnailCompiler :: Compiler (Item BL.ByteString)
 thumbnailCompiler = getResourceLBS >>= withItemBody resize
-    where resize = unixFilterLBS "convert" ["jpg:-", "-colorspace", "RGB", "-resize", "200x200",
+    where resize = unixFilterLBS "convert" ["jpg:-", "-colorspace", "sRGB", "-resize", "200x200",
                                             "-quality", "90", "jpg:-"]
 
 
@@ -191,10 +189,10 @@ carouselImageField key f =
 paintingsCompiler :: Identifier -> Compiler [Item Painting]
 paintingsCompiler identifier = do
     r <- load identifier
-    case decode' $ itemBody r :: Maybe [Painting] of
-      Just p  -> mapM makeItem p
-      Nothing -> fail "No paintings found."
-  where decode' = decode . B.concat . BL.toChunks
+    case decode' $ itemBody r :: Either ParseException [Painting] of
+      Right p -> mapM makeItem p
+      Left e  -> fail (show e)
+  where decode' = decodeEither' . B.concat . BL.toChunks
 
 
 -- Routes ----------------------------------------------------------------------

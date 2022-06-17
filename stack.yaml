@@ -15,7 +15,7 @@
 # resolver:
 #  name: custom-snapshot
 #  location: "./custom-snapshot.yaml"
-resolver: lts-12.16
+resolver: lts-18.28
 
 # User packages to be built.
 # Various formats can be used as shown in the example below.
@@ -39,7 +39,8 @@ packages:
 - '.'
 # Dependency packages to be pulled from upstream that are not in the resolver
 # (e.g., acme-missiles-0.3)
-extra-deps: []
+extra-deps:
+- hakyll-4.15.1.1@sha256:14cb72593bc937576b07446db07403231cb9e4034d49fb232dc93fc32bb27e2f,9962
 
 # Override default flag values for local packages and extra-deps
 flags: {}

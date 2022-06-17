@@ -1,3 +1,39 @@
+- title: Het oude kastje
+  image: IMG_1287.jpg
+  carousel: y
+  description: |
+      olie op paneel
+      60 × 80 cm
+      2022
+      prijs op aanvraag
+
+- title: Oude flessen
+  image: IMG_1279.jpg
+  carousel: y
+  description: |
+      olie op paneel
+      60 × 50 cm
+      2022
+      prijs op aanvraag
+
+- title: Het oude kastje 2
+  image: IMG_1161.jpg
+  carousel: n
+  description: |
+      olie op paneel
+      60 × 80 cm
+      2022
+      prijs op aanvraag
+
+- title: De Eem
+  image: IMG_1047.jpg
+  carousel: y
+  description: |
+      olie op doek
+      70 × 50 cm
+      2021
+      prijs op aanvraag
+
 - title: Botters in de haven van Spakenburg
   image: IMG_1005.jpg
   carousel: y
@@ -18,7 +54,7 @@
 
 - title: Haven van Spakenburg
   image: IMG_0898.jpg
-  carousel: y
+  carousel: n
   description: |
       olie op doek
       70 × 50 cm
@@ -103,7 +139,7 @@
 
 - title: Tolhuisje Blaricum II
   image: IMG_7484.jpg
-  carousel: y
+  carousel: n
   description: |
       olie op doek
       60 × 80 cm
@@ -112,7 +148,7 @@
 
 - title: Brink Laren
   image: IMG_8645.jpg
-  carousel: y
+  carousel: n
   description: |
       olie op doek
       80 × 60 cm
@@ -122,7 +158,7 @@
 
 - title: Hindeloopen I
   image: IMG_9739.jpg
-  carousel: y
+  carousel: n
   description: |
       olie op doek
       70 × 50 cm
@@ -132,7 +168,7 @@
 
 - title: Hindeloopen II
   image: IMG_9305.jpg
-  carousel: y
+  carousel: n
   description: |
       olie op doek
       70 × 60 cm
@@ -151,7 +187,7 @@
 
 - title: Eemnesserweg Blaricum
   image: IMG_9891.jpg
-  carousel: y
+  carousel: n
   description: |
       olie op doek
       80 × 60 cm
@@ -188,7 +224,7 @@
 
 - title: Tolhuisje Huizen
   image: IMG_5643.jpg
-  carousel: y
+  carousel: n
   description: |
       olie op doek
       60 × 60 cm
@@ -297,7 +333,7 @@
 
 - title: Brink te Laren in de winter (NH)
   image: IMG_8956.jpg
-  carousel: y
+  carousel: n
   description: |
       olie op linnen
       60 × 45 cm
@@ -307,7 +343,7 @@
 
 - title: Corverslaan, Hilversum
   image: IMG_0689.jpg
-  carousel: y
+  carousel: n
   description: |
       olie op linnen
       70 × 100 cm
@@ -361,7 +397,7 @@
 
 - title: Koppelpoort in de winter
   image: IMG_4288.jpg
-  carousel: y
+  carousel: n
   description: |
       olie op linnen
       100 × 70 cm
