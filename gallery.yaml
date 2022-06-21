@@ -109,14 +109,14 @@
       2021
       n.t.k.
 
-- title: Stilleven met groene fles
-  image: IMG_0417.jpg
-  carousel: n
-  description: |
-      olie op paneel
-      60 × 70 cm
-      2021
-      prijs op aanvraag
+# - title: Stilleven met groene fles
+#   image: IMG_0417.jpg
+#   carousel: n
+#   description: |
+#       olie op paneel
+#       60 × 70 cm
+#       2021
+#       prijs op aanvraag
 
 - title: Stilleven in wit
   image: IMG_0464.jpg
@@ -321,15 +321,15 @@
       2015
       prijs op aanvraag
 
-- title: Brink te Laren (NH)
-  image: IMG_0346.jpg
-  carousel: y
-  description: |
-      olie op linnen
-      60 × 80 cm
-      2015
-      n.t.k.
-  location: Brink, Laren, Nederland
+# - title: Brink te Laren (NH)
+#   image: IMG_0346.jpg
+#   carousel: y
+#   description: |
+#       olie op linnen
+#       60 × 80 cm
+#       2015
+#       n.t.k.
+#   location: Brink, Laren, Nederland
 
 - title: Brink te Laren in de winter (NH)
   image: IMG_8956.jpg
@@ -359,14 +359,14 @@
       2014
       prijs op aanvraag
 
-- title: Schaapskooi te Soest
-  image: IMG_9808.jpg
-  carousel: y
-  description: |
-      olie op linnen
-      50 × 60 cm
-      2014
-      prijs op aanvraag
+# - title: Schaapskooi te Soest
+#   image: IMG_9808.jpg
+#   carousel: y
+#   description: |
+#       olie op linnen
+#       50 × 60 cm
+#       2014
+#       prijs op aanvraag
 
 - title: Houtzaagmolen Het jonge Schaap, Zaanse Schans
   image: IMG_6682.jpg
@@ -420,13 +420,13 @@
 #       50 × 60 cm
 #       n.t.k.
 
-- title: Dagelijks brood
-  image: IMG_7660.jpg
-  carousel: n
-  description: |
-      olie op linnen
-      50 × 65 cm
-      n.t.k.
+# - title: Dagelijks brood
+#   image: IMG_7660.jpg
+#   carousel: n
+#   description: |
+#       olie op linnen
+#       50 × 65 cm
+#       n.t.k.
 
 - title: De oude pier van Huizen
   image: IMG_7144.jpg
@@ -445,13 +445,13 @@
       60 × 80 cm
       prijs op aanvraag
 
-- title: Tolhuisje Blaricum
-  image: IMG_5915.jpg
-  carousel: n
-  description: |
-      olie op linnen
-      100 × 70 cm
-      n.t.k.
+# - title: Tolhuisje Blaricum
+#   image: IMG_5915.jpg
+#   carousel: n
+#   description: |
+#       olie op linnen
+#       100 × 70 cm
+#       n.t.k.
 
 - title: Haring en wittebrood
   image: IMG_4727.jpg
@@ -541,14 +541,14 @@
       50 × 60 cm
       prijs op aanvraag
 
-- title: Druiven en vijgen
-  image: IMG_5487.jpg
-  carousel: y
-  description: |
-      olieverf op paneel
-      50 × 60 cm
-      2012
-      n.t.k.
+# - title: Druiven en vijgen
+#   image: IMG_5487.jpg
+#   carousel: y
+#   description: |
+#       olieverf op paneel
+#       50 × 60 cm
+#       2012
+#       n.t.k.
 
 - title: Soester Eng met "De Windhond"
   image: IMG_5914.jpg
@@ -566,19 +566,19 @@
       65 × 50 cm
       n.t.k.
 
-- title: Kersen op tinnen bord
-  image: IMG_1313.jpg
-  carousel: n
-  description: |
-      olie op paneel
-      n.t.k.
+# - title: Kersen op tinnen bord
+#   image: IMG_1313.jpg
+#   carousel: n
+#   description: |
+#       olie op paneel
+#       n.t.k.
 
-- title: Kersen in test
-  image: IMG_1182.jpg
-  carousel: n
-  description: |
-      olie op paneel
-      n.t.k.
+# - title: Kersen in test
+#   image: IMG_1182.jpg
+#   carousel: n
+#   description: |
+#       olie op paneel
+#       n.t.k.
 
 - title: Rode rijder
   image: IMG_1852.jpg
@@ -604,13 +604,13 @@
       65 × 80 cm
       prijs op aanvraag
 
-- title: Haven van Volendam
-  image: IMG_5926.jpg
-  carousel: n
-  description: |
-      olie op linnen
-      55 × 65 cm
-      prijs op aanvraag
+# - title: Haven van Volendam
+#   image: IMG_5926.jpg
+#   carousel: n
+#   description: |
+#       olie op linnen
+#       55 × 65 cm
+#       prijs op aanvraag
 
 # Deze is vervangen door een nieuwe Lathyrus I.
 # - title: Lathyrus I
