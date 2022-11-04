@@ -1,6 +1,6 @@
-- title: Het oude kastje
-  image: IMG_1287.jpg
-  carousel: y
+- title: Het oude kastje 3
+  image: IMG_1438.jpg
+  carousel: n
   description: |
       olie op paneel
       60 × 80 cm
@@ -25,6 +25,24 @@
       2022
       prijs op aanvraag
 
+- title: Brink Laren, winteravond
+  image: IMG_1032.jpg
+  carousel: y
+  description: |
+      olie op doek
+      100 × 70 cm
+      2021
+      prijs op aanvraag
+
+- title: Het oude kastje
+  image: IMG_1287.jpg
+  carousel: y
+  description: |
+      olie op paneel
+      60 × 80 cm
+      2022
+      prijs op aanvraag
+
 - title: De Eem
   image: IMG_1047.jpg
   carousel: y
@@ -40,15 +58,6 @@
   description: |
       olie op paneel
       70 × 50 cm
-      2021
-      prijs op aanvraag
-
-- title: Brink Laren, winteravond
-  image: IMG_1032.jpg
-  carousel: y
-  description: |
-      olie op doek
-      100 × 70 cm
       2021
       prijs op aanvraag
 
@@ -71,14 +80,14 @@
       prijs op aanvraag
   location: Eng, Soest, Nederland
 
-- title: Kom met eieren
-  image: IMG_0935.jpg
-  carousel: n
-  description: |
-      olie op paneel
-      40 × 40 cm
-      2021
-      prijs op aanvraag
+# - title: Kom met eieren
+#   image: IMG_0935.jpg
+#   carousel: n
+#   description: |
+#       olie op paneel
+#       40 × 40 cm
+#       2021
+#       prijs op aanvraag
 
 - title: Winterbos
   image: IMG_0927.jpg
@@ -176,14 +185,14 @@
       prijs op aanvraag
   location: Hindeloopen, Nederland
 
-- title: Druiven
-  image: IMG_9734.jpg
-  carousel: y
-  description: |
-      olie op paneel
-      40 × 60 cm
-      2019
-      n.t.k.
+# - title: Druiven
+#   image: IMG_9734.jpg
+#   carousel: y
+#   description: |
+#       olie op paneel
+#       40 × 60 cm
+#       2019
+#       n.t.k.
 
 - title: Eemnesserweg Blaricum
   image: IMG_9891.jpg
@@ -453,14 +462,14 @@
 #       100 × 70 cm
 #       n.t.k.
 
-- title: Haring en wittebrood
-  image: IMG_4727.jpg
-  carousel: n
-  description: |
-      olie op paneel
-      35 × 40 cm
-      2012
-      n.t.k.
+# - title: Haring en wittebrood
+#   image: IMG_4727.jpg
+#   carousel: n
+#   description: |
+#       olie op paneel
+#       35 × 40 cm
+#       2012
+#       n.t.k.
 
 # Deze is door Cor aangepast en heet nu Boerejasmijn.
 # - title: Jasmijn in Keulse pot II
@@ -580,21 +589,21 @@
 #       olie op paneel
 #       n.t.k.
 
-- title: Rode rijder
-  image: IMG_1852.jpg
-  carousel: n
-  description: |
-      olie op paneel
-      30 × 40 cm
-      prijs op aanvraag
+# - title: Rode rijder
+#   image: IMG_1852.jpg
+#   carousel: n
+#   description: |
+#       olie op paneel
+#       30 × 40 cm
+#       prijs op aanvraag
 
-- title: Haven van Spakenburg
-  image: IMG_5922.jpg
-  carousel: n
-  description: |
-      olie op linnen
-      60 × 80 cm
-      prijs op aanvraag
+# - title: Haven van Spakenburg
+#   image: IMG_5922.jpg
+#   carousel: n
+#   description: |
+#       olie op linnen
+#       60 × 80 cm
+#       prijs op aanvraag
 
 - title: Haven van Muiden
   image: IMG_5924.jpg
@@ -620,13 +629,13 @@
 #       olieverf
 #       n.t.k.
 
-- title: Lathyrus I
-  image: IMG_7844.jpg
-  carousel: n
-  description: |
-      olieverf op linnen
-      50 × 60 cm
-      n.t.k.
+# - title: Lathyrus I
+#   image: IMG_7844.jpg
+#   carousel: n
+#   description: |
+#       olieverf op linnen
+#       50 × 60 cm
+#       n.t.k.
 
 - title: Lathyrus II
   image: IMG_2256.jpg
@@ -635,13 +644,13 @@
       olie op linnen
       n.t.k.
 
-- title: Pijnenburgergrift Soest
-  image: IMG_5913.jpg
-  carousel: n
-  description: |
-      olie op linnen
-      60 × 80 cm
-      n.t.k.
+# - title: Pijnenburgergrift Soest
+#   image: IMG_5913.jpg
+#   carousel: n
+#   description: |
+#       olie op linnen
+#       60 × 80 cm
+#       n.t.k.
 
 - title: De oude man en de dood
   image: IMG_5921.jpg
@@ -675,13 +684,13 @@
       65 × 50 cm
       n.t.k.
 
-- title: Sint-Jansbasiliek Laren
-  image: IMG_5944.jpg
-  carousel: n
-  description: |
-      olie op linnen
-      50 × 60 cm
-      prijs op aanvraag
+# - title: Sint-Jansbasiliek Laren
+#   image: IMG_5944.jpg
+#   carousel: n
+#   description: |
+#       olie op linnen
+#       50 × 60 cm
+#       prijs op aanvraag
 
 - title: Paleis Soestdijk, Praamgracht
   image: IMG_5917.jpg
