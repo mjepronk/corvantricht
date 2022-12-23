@@ -130,8 +130,8 @@ siteConfig = defaultConfiguration
 
 imageCompiler :: Compiler (Item BL.ByteString)
 imageCompiler = getResourceLBS >>= withItemBody resize
-    where resize = unixFilterLBS "convert" ["jpg:-", "-colorspace", "sRGB", "-resize", "1024x768",
-                                            "-quality", "90", "jpg:-"]
+    where resize = unixFilterLBS "convert" ["jpg:-", "-colorspace", "sRGB", "-resize", "1400x1400",
+                                            "-quality", "95", "jpg:-"]
 
 thumbnailCompiler :: Compiler (Item BL.ByteString)
 thumbnailCompiler = getResourceLBS >>= withItemBody resize

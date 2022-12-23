@@ -1,11 +1,20 @@
+- title: Visserijdag Spakenburg
+  image: IMG_1636.jpg
+  carousel: y
+  description: |
+      olie op paneel
+      80 × 60 cm
+      2022
+      prijs op aanvraag
+
 - title: Het oude kastje 3
   image: IMG_1438.jpg
-  carousel: n
+  carousel: y
   description: |
       olie op paneel
       60 × 80 cm
       2022
-      prijs op aanvraag
+      n.t.k.
 
 - title: Oude flessen
   image: IMG_1279.jpg
@@ -18,12 +27,12 @@
 
 - title: Het oude kastje 2
   image: IMG_1161.jpg
-  carousel: n
+  carousel: y
   description: |
       olie op paneel
       60 × 80 cm
       2022
-      prijs op aanvraag
+      n.t.k.
 
 - title: Brink Laren, winteravond
   image: IMG_1032.jpg
@@ -251,12 +260,12 @@
 
 - title: Ridderspoor
   image: IMG_7090.jpg
-  carousel: y
+  carousel: n
   description: |
       olie op doek
       50 × 70 cm
       2017
-      prijs op aanvraag
+      n.t.k.
 
 - title: Kersen en zo
   image: IMG_6940.jpg
