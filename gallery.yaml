@@ -1,3 +1,39 @@
+- title: Rosalie
+  image: IMG_0076.jpg
+  carousel: y
+  description: |
+      olie op doek
+      50 × 60 cm
+      2023
+      n.t.k.
+
+- title: Roggeoogst Soest II
+  image: IMG_0074.jpg
+  carousel: y
+  description: |
+      olie op doek
+      70 × 50 cm
+      2023
+      prijs op aanvraag
+
+- title: Roggeoogst Soest
+  image: IMG_0072.jpg
+  carousel: y
+  description: |
+      olie op doek
+      70 × 50 cm
+      2023
+      prijs op aanvraag
+
+- title: Tolhuis Blaricum
+  image: IMG_1697.jpg
+  carousel: y
+  description: |
+      olie op doek
+      60 × 50 cm
+      2023
+      n.t.k.
+
 - title: Visserijdag Spakenburg
   image: IMG_1636.jpg
   carousel: y
@@ -5,7 +41,7 @@
       olie op paneel
       80 × 60 cm
       2022
-      prijs op aanvraag
+      n.t.k.
 
 - title: Het oude kastje 3
   image: IMG_1438.jpg
@@ -50,7 +86,7 @@
       olie op paneel
       60 × 80 cm
       2022
-      prijs op aanvraag
+      n.t.k.
 
 - title: De Eem
   image: IMG_1047.jpg
@@ -68,7 +104,7 @@
       olie op paneel
       70 × 50 cm
       2021
-      prijs op aanvraag
+      n.t.k.
 
 - title: Haven van Spakenburg
   image: IMG_0898.jpg
@@ -461,7 +497,7 @@
   description: |
       olieverf op linnen
       60 × 80 cm
-      prijs op aanvraag
+      n.t.k.
 
 # - title: Tolhuisje Blaricum
 #   image: IMG_5915.jpg
