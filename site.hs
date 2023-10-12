@@ -31,6 +31,10 @@ main = hakyllWith siteConfig $ do
         route   idRoute
         compile copyFileCompiler
 
+    match "static/video/*" $ do
+        route   idRoute
+        compile copyFileCompiler
+
     match "static/css/*" $ do
         route   idRoute
         compile compressCssCompiler
