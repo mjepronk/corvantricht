@@ -7,6 +7,46 @@
       2023
       n.t.k.
 
+- title: Wachten op de Lente (botters)
+  image: IMG_0838.jpg
+  carousel: y
+  description: |
+      olie op doek
+      60 × 50 cm
+      prijs op aanvraag
+
+- title: Huizen Molen
+  image: IMG_5374.jpg
+  carousel: y
+  description: |
+      olie op doek
+      50 × 60 cm
+      n.t.k.
+
+- title: Spietende Huizer meisjes
+  image: IMG_0914.jpg
+  carousel: y
+  description: |
+      olie op doek
+      75 × 65 cm
+      prijs op aanvraag
+
+- title: Tolhuisje Blaricum met boerenkar
+  image: IMG_0833.jpg
+  carousel: y
+  description: |
+      olie op doek
+      100 × 70 cm
+      prijs op aanvraag
+
+- title: Eenden voeren
+  image: IMG_0831.jpg
+  carousel: y
+  description: |
+      olie op doek
+      80 × 60 cm
+      prijs op aanvraag
+
 - title: Roggeoogst Soest II
   image: IMG_0074.jpg
   carousel: y
@@ -144,15 +184,15 @@
       prijs op aanvraag
   location: Pijnenburg, Soest, Nederland
 
-- title: Crailoseweg
-  image: IMG_0848.jpg
-  carousel: n
-  description: |
-      olie op doek
-      80 × 60 cm
-      2021
-      prijs op aanvraag
-  location: Crailoseweg, Blaricum, Nederland
+# - title: Crailoseweg
+#   image: IMG_0848.jpg
+#   carousel: n
+#   description: |
+#       olie op doek
+#       80 × 60 cm
+#       2021
+#       prijs op aanvraag
+#   location: Crailoseweg, Blaricum, Nederland
 
 - title: Kate en haar paard
   image: IMG_0806.jpg
@@ -276,14 +316,14 @@
       2018
       n.t.k.
 
-- title: Tolhuisje Huizen
-  image: IMG_5643.jpg
-  carousel: n
-  description: |
-      olie op doek
-      60 × 60 cm
-      2017
-      prijs op aanvraag
+# - title: Tolhuisje Huizen
+#   image: IMG_5643.jpg
+#   carousel: n
+#   description: |
+#       olie op doek
+#       60 × 60 cm
+#       2017
+#       prijs op aanvraag
 
 - title: Kempische heideschapen Eemdijk
   image: IMG_6651.jpg
@@ -294,23 +334,23 @@
       2017
       prijs op aanvraag
 
-- title: Ridderspoor
-  image: IMG_7090.jpg
-  carousel: n
-  description: |
-      olie op doek
-      50 × 70 cm
-      2017
-      n.t.k.
+# - title: Ridderspoor
+#   image: IMG_7090.jpg
+#   carousel: n
+#   description: |
+#       olie op doek
+#       50 × 70 cm
+#       2017
+#       n.t.k.
 
-- title: Kersen en zo
-  image: IMG_6940.jpg
-  carousel: y
-  description: |
-      olie op paneel
-      50 × 50 cm
-      2017
-      n.t.k.
+# - title: Kersen en zo
+#   image: IMG_6940.jpg
+#   carousel: y
+#   description: |
+#       olie op paneel
+#       50 × 50 cm
+#       2017
+#       n.t.k.
 
 - title: Altijd bloemen
   image: IMG_7368.jpg
@@ -440,14 +480,14 @@
       2014
       prijs op aanvraag
 
-- title: Koppelpoort Amersfoort
-  image: IMG_4381.jpg
-  carousel: n
-  description: |
-      olie op linnen
-      100 × 80 cm
-      2012
-      n.t.k.
+# - title: Koppelpoort Amersfoort
+#   image: IMG_4381.jpg
+#   carousel: n
+#   description: |
+#       olie op linnen
+#       100 × 80 cm
+#       2012
+#       n.t.k.
 
 - title: Koppelpoort in de winter
   image: IMG_4288.jpg
@@ -491,13 +531,13 @@
       2013
       prijs op aanvraag
 
-- title: Haven van Spakenburg, visserijdag
-  image: IMG_3835.jpg
-  carousel: n
-  description: |
-      olieverf op linnen
-      60 × 80 cm
-      n.t.k.
+# - title: Haven van Spakenburg, visserijdag
+#   image: IMG_3835.jpg
+#   carousel: n
+#   description: |
+#       olieverf op linnen
+#       60 × 80 cm
+#       n.t.k.
 
 # - title: Tolhuisje Blaricum
 #   image: IMG_5915.jpg
@@ -526,14 +566,14 @@
 #       2011
 #       prijs op aanvraag
 
-- title: Jasmijn in Keulse pot
-  image: IMG_3747.jpg
-  carousel: n
-  description: |
-      olie op linnen
-      50 × 60 cm
-      2011
-      n.t.k.
+# - title: Jasmijn in Keulse pot
+#   image: IMG_3747.jpg
+#   carousel: n
+#   description: |
+#       olie op linnen
+#       50 × 60 cm
+#       2011
+#       n.t.k.
 
 - title: Boerejasmijn
   image: IMG_7827.jpg
@@ -737,13 +777,13 @@
 #       50 × 60 cm
 #       prijs op aanvraag
 
-- title: Paleis Soestdijk, Praamgracht
-  image: IMG_5917.jpg
-  carousel: n
-  description: |
-      olie op linnen
-      100 × 70 cm
-      prijs op aanvraag
+# - title: Paleis Soestdijk, Praamgracht
+#   image: IMG_5917.jpg
+#   carousel: n
+#   description: |
+#       olie op linnen
+#       100 × 70 cm
+#       prijs op aanvraag
 
 # Verwijderd
 # - title: Tolhuisje Hilversum Laren
@@ -754,13 +794,13 @@
 #       100 × 70 cm
 #       prijs op aanvraag
 
-- title: Ploegende boer, Huizen
-  image: IMG_5919.jpg
-  carousel: n
-  description: |
-      olie op doek
-      50 × 70 cm
-      prijs op aanvraag
+# - title: Ploegende boer, Huizen
+#   image: IMG_5919.jpg
+#   carousel: n
+#   description: |
+#       olie op doek
+#       50 × 70 cm
+#       prijs op aanvraag
 
 - title: Ploegende boer, Blaricum
   image: IMG_5920.jpg
@@ -778,13 +818,13 @@
       60 × 80 cm
       prijs op aanvraag
 
-- title: Winter in Soest
-  image: IMG_5923.jpg
-  carousel: n
-  description: |
-      olie op paneel
-      60 × 70 cm
-      prijs op aanvraag
+# - title: Winter in Soest
+#   image: IMG_5923.jpg
+#   carousel: n
+#   description: |
+#       olie op paneel
+#       60 × 70 cm
+#       prijs op aanvraag
 
 # Verwijderd
 # - title: Winteravond

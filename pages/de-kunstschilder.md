@@ -43,3 +43,4 @@ werkende paard, stillevens en een sterke voorkeur voor wintergezichten.
 
 -   Signeert zijn werk met C.L. v. Tricht.
 -   Heeft vermelding in de Pieter Scheen.
+-   Werk in diverse musea.
