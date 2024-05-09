@@ -42,5 +42,5 @@ echter overheersen met als onderwerpen: dorpsgezichten, portretten, het
 werkende paard, stillevens en een sterke voorkeur voor wintergezichten.
 
 -   Signeert zijn werk met C.L. v. Tricht.
--   Heeft vermelding in de Pieter Scheen.
+-   Heeft vermelding in de Pieter Scheen en in de Jacobs.
 -   Werk in diverse musea.

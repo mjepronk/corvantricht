@@ -1,3 +1,39 @@
+- title: Het Bonte Paard
+  image: IMG_1936.jpg
+  carousel: y
+  description: |
+      olie op doek
+      80 × 60 cm
+      2024
+      prijs op aanvraag
+
+- title: Winter
+  image: IMG_1309.jpg
+  carousel: y
+  description: |
+      olie op doek
+      80 × 60 cm
+      2024
+      prijs op aanvraag
+
+- title: Franse gistflessen
+  image: IMG_2002.jpg
+  carousel: y
+  description: |
+      olie op doek
+      80 × 60 cm
+      2024
+      prijs op aanvraag
+
+- title: Roosje
+  image: IMG_2016.jpg
+  carousel: y
+  description: |
+      olie op paneel
+      28 × 33 cm
+      2024
+      n.t.k.
+
 - title: Rosalie
   image: IMG_0076.jpg
   carousel: y
@@ -92,14 +128,14 @@
       2022
       n.t.k.
 
-- title: Oude flessen
-  image: IMG_1279.jpg
-  carousel: y
-  description: |
-      olie op paneel
-      60 × 50 cm
-      2022
-      prijs op aanvraag
+# - title: Oude flessen
+#   image: IMG_1279.jpg
+#   carousel: y
+#   description: |
+#       olie op paneel
+#       60 × 50 cm
+#       2022
+#       prijs op aanvraag
 
 - title: Het oude kastje 2
   image: IMG_1161.jpg
@@ -174,15 +210,15 @@
 #       2021
 #       prijs op aanvraag
 
-- title: Winterbos
-  image: IMG_0927.jpg
-  carousel: n
-  description: |
-      olie op doek
-      80 × 60 cm
-      2021
-      prijs op aanvraag
-  location: Pijnenburg, Soest, Nederland
+# - title: Winterbos
+#   image: IMG_0927.jpg
+#   carousel: n
+#   description: |
+#       olie op doek
+#       80 × 60 cm
+#       2021
+#       prijs op aanvraag
+#   location: Pijnenburg, Soest, Nederland
 
 # - title: Crailoseweg
 #   image: IMG_0848.jpg
@@ -240,15 +276,15 @@
       2017
       prijs op aanvraag
 
-- title: Brink Laren
-  image: IMG_8645.jpg
-  carousel: n
-  description: |
-      olie op doek
-      80 × 60 cm
-      2018
-      prijs op aanvraag
-  location: Brink, Laren, Nederland
+# - title: Brink Laren
+#   image: IMG_8645.jpg
+#   carousel: n
+#   description: |
+#       olie op doek
+#       80 × 60 cm
+#       2018
+#       prijs op aanvraag
+#   location: Brink, Laren, Nederland
 
 - title: Hindeloopen I
   image: IMG_9739.jpg
@@ -298,23 +334,23 @@
       2018
       prijs op aanvraag
 
-- title: Kaasplank
-  image: IMG_9692.jpg
-  carousel: y
-  description: |
-      olie op doek
-      70 × 60 cm
-      2019
-      prijs op aanvraag
+# - title: Kaasplank
+#   image: IMG_9692.jpg
+#   carousel: y
+#   description: |
+#       olie op doek
+#       70 × 60 cm
+#       2019
+#       prijs op aanvraag
 
-- title: Dagelijks brood II
-  image: IMG_7676.jpg
-  carousel: y
-  description: |
-      olie op doek
-      50 × 70 cm
-      2018
-      n.t.k.
+# - title: Dagelijks brood II
+#   image: IMG_7676.jpg
+#   carousel: y
+#   description: |
+#       olie op doek
+#       50 × 70 cm
+#       2018
+#       n.t.k.
 
 # - title: Tolhuisje Huizen
 #   image: IMG_5643.jpg
@@ -379,14 +415,14 @@
       2016
       prijs op aanvraag
 
-- title: Ultramarijn
-  image: IMG_3873.jpg
-  carousel: y
-  description: |
-      olie op linnen
-      50 × 70 cm
-      2016
-      prijs op aanvraag
+# - title: Ultramarijn
+#   image: IMG_3873.jpg
+#   carousel: y
+#   description: |
+#       olie op linnen
+#       50 × 70 cm
+#       2016
+#       prijs op aanvraag
 
 - title: Valavond (Soest, De Windhond)
   image: IMG_5095.jpg
@@ -397,14 +433,14 @@
       2016
       prijs op aanvraag
 
-- title: Herfstochtend (Soest, De Windhond)
-  image: IMG_5090.jpg
-  carousel: y
-  description: |
-      olie op doek
-      50 × 70 cm
-      2016
-      prijs op aanvraag
+# - title: Herfstochtend (Soest, De Windhond)
+#   image: IMG_5090.jpg
+#   carousel: y
+#   description: |
+#       olie op doek
+#       50 × 70 cm
+#       2016
+#       prijs op aanvraag
 
 - title: Visserijdag Spakenburg
   image: IMG_9994.jpg
@@ -478,7 +514,7 @@
       olie op linnen
       60 × 80 cm
       2014
-      prijs op aanvraag
+      n.t.k.
 
 # - title: Koppelpoort Amersfoort
 #   image: IMG_4381.jpg
@@ -575,13 +611,13 @@
 #       2011
 #       n.t.k.
 
-- title: Boerejasmijn
-  image: IMG_7827.jpg
-  carousel: n
-  description: |
-      olie op linnen
-      50 × 60 cm
-      prijs op aanvraag
+# - title: Boerejasmijn
+#   image: IMG_7827.jpg
+#   carousel: n
+#   description: |
+#       olie op linnen
+#       50 × 60 cm
+#       prijs op aanvraag
 
 # - title: Stilleven met appels
 #   image: IMG_5927.jpg
